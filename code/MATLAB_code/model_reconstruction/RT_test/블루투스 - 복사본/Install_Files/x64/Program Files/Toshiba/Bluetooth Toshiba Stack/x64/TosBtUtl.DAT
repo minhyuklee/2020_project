@@ -1,0 +1,89 @@
+[BluetoothBuildVersion]
+ServiceCenter = v8.00.02(T)
+
+[Utility Version]
+Version = "V1.0"
+
+[BtSeting]
+General_DeviceName = "ToshibaBt"
+General_DeviceAddress = "None"
+General_LmpVersion =
+General_HciVersion =
+General_CountryCode =
+Power_Sleep = 0
+Mode_DiscoverabilityMode = 1
+Mode_ConnectabilityMode = 1
+Mode_PairingMode = 1
+Mode_SecurityMode = 0
+Mode_Encryption = 0
+Link_RemoveDiscoveredDevices = 0
+Link_FromTheDataOfWhatDayAgo = 20
+Link_LeaveDiscoveredDevices = 0
+
+[BtUsrMod]
+CurrentCategory = 3
+
+[BtUsrMode_Office]
+AutoLink_EnableMode = 0
+AutoLink_Category = 0
+AutoLink_Address = None
+AutoLink_DisplayMessage = 0
+Mode_DiscoverabilityMode = 1
+Mode_ConnectabilityMode = 1
+Mode_PairingMode = 1
+Mode_SecurityMode = 2
+Mode_Encryption = 1
+Link_DefaultLinkPolicy = 0
+Link_ApplyToAllNewlyDiscoveredDevice = 0
+
+[BtUsrMode_Mobile]
+AutoLink_EnableMode = 0
+AutoLink_Category = 1
+AutoLink_Address = None
+AutoLink_DisplayMessage = 0
+Mode_DiscoverabilityMode = 0
+Mode_ConnectabilityMode = 0
+Mode_PairingMode = 1
+Mode_SecurityMode = 2
+Mode_Encryption = 1
+Link_DefaultLinkPolicy = 0
+Link_ApplyToAllNewlyDiscoveredDevice = 0
+
+[BtUsrMode_Home]
+AutoLink_EnableMode = 0
+AutoLink_Category = 2
+AutoLink_Address = None
+AutoLink_DisplayMessage = 0
+Mode_DiscoverabilityMode = 1
+Mode_ConnectabilityMode = 1
+Mode_PairingMode = 1
+Mode_SecurityMode = 0
+Mode_Encryption = 0
+Link_DefaultLinkPolicy = 0
+Link_ApplyToAllNewlyDiscoveredDevice = 0
+
+[BtUsrMode_Others]
+AutoLink_EnableMode = 0
+AutoLink_Category = 3
+AutoLink_Address = None
+AutoLink_DisplayMessage = 0
+Mode_DiscoverabilityMode = 1
+Mode_ConnectabilityMode = 1
+Mode_PairingMode = 1
+Mode_SecurityMode = 0
+Mode_Encryption = 0
+Link_DefaultLinkPolicy = 0
+Link_ApplyToAllNewlyDiscoveredDevice = 0
+
+[BtUsrMode_Default]
+AutoLink_EnableMode = 0
+AutoLink_Category = 3
+AutoLink_Address = None
+AutoLink_DisplayMessage = 0
+Mode_DiscoverabilityMode = 1
+Mode_ConnectabilityMode = 1
+Mode_PairingMode = 1
+Mode_SecurityMode = 0
+Mode_Encryption = 0
+Link_DefaultLinkPolicy = 0
+Link_ApplyToAllNewlyDiscoveredDevice = 0
